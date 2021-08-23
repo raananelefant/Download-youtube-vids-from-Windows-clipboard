@@ -1,4 +1,4 @@
-# download-youtube-vids-from-Windows-clipboard
+# Download-youtube-vids-from-Windows-clipboard
 
 Instructions:
 
